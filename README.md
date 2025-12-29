@@ -1,0 +1,2 @@
+# RESNET34_FASHIONMINIST-
+Final assignment
